@@ -7,4 +7,3 @@ ML-DL-Projects repository houses a collection of machine learning and deep learn
 4) CovidDataAPI
 5) SearchTree
 6) TextMining
-7) Stock Simulator
